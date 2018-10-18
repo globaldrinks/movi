@@ -3,12 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [       289.366932,       -33.441592      ]
-      },
-      "properties": {
-        "name": "Importer 1"
+      "geometry": {        "type": "Point",         "coordinates": [       289.724211,       -28.873875      ]       },
+      "properties": {      "name": "Armidita"
+		           "tiene restaurant?": "Si",
+		           "idiomas": "English, Español, "
       }
     },
    {
