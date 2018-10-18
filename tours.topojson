@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "geometry": {        "type": "Point",         "coordinates": [       289.724211,       -28.873875      ]       },
-      "properties": {      "name": "Armidita"
+      "properties": {      "name": "Armidita",
 		           "tiene restaurant?": "Si",
 		           "idiomas": "English, Español, "
       }
