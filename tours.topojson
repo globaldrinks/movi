@@ -36,15 +36,8 @@
 		           "tiene restaurant?": "Si",
 		           "idiomas": "English, Español, "      }
     },
-{
-      "type": "Feature",
-      "geometry": {        "type": "Point",         "coordinates": [       ,           ]       },
-      "properties": {      "name": "Villard",
-		           "tiene restaurant?": "Si",
-		           "idiomas": "English, Español, "      }
-    },
 
-  { "type": "Feature",
+{ "type": "Feature",
       "geometry": {        "type": "Point",         "coordinates": [       288.623416,       -33.802742      ]       },
       "properties": {      "name": "Catrala",
 		           "tiene restaurant?": "Si",
