@@ -5,8 +5,14 @@
       "type": "Feature",
       "geometry": {        "type": "Point",         "coordinates": [       289.724211,       -28.873875      ]       },
       "properties": {      "name": "Armidita",
+		     	   "tiene tour con tasting?": "Si",
+		           "tiene tasting?": "Si",
+		           "tiene almuerzo/cena?": "Si",
+		           "tiene alojamiento?": "Si",
+		           "requiere reserva previa?": "Si",
+		           "abierto a público?": "Si",
 		           "tiene restaurant?": "Si",
-		           "idiomas": "English, Español, "      }
+		           "idiomas del tour": "English, Español, Portugués, Alemán, Francés "      }
     },
    {
       "type": "Feature",
