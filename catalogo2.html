@@ -26,7 +26,7 @@ var treemap = d3.treemap()
     .size([width, height])
     .round(true)
     .paddingInner(1);
-d3.json("catalogo.json", function(error, data) {
+d3.json("catalogo2.json", function(error, data) {
   if (error) throw error;
   var root = d3.hierarchy(data)
       .eachBefore(function(d) { d.data.id = (d.parent ? d.parent.data.id + "." : "") + d.data.name; })
